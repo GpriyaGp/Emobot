@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category>
+<pattern>SONGS </pattern>
+<template><random>
+	
+<li> https://www.youtube.com/watch?v=wYrIApGhcmw</li>
+		<li> https://www.youtube.com/watch?v=jt3yQ4Sxjk0 </li>
+		<li> https://www.youtube.com/watch?v=8tMSdNfiPQM </li>
+		<li> https://www.youtube.com/watch?v=4BQXLA8uxjU </li>
+		<li> https://www.youtube.com/watch?v=yv65f4pONRg </li>
+		<li> https://www.youtube.com/watch?v=0M1EciTh4MM </li>
+		<li> https://www.youtube.com/watch?v=gR_YQ30t65s </li>
+		<li> https://www.youtube.com/watch?v=LHZbE7FN8Rs </li>
+		<li>  https://www.youtube.com/watch?v=yzJSYem2lGU </li>
+		
+</random></template>
+</category>
+</aiml>
+

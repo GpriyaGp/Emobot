@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<category>
+	<pattern>* RELAX</pattern>
+	<template><random>
+	<li>Breath focus. In this simple, powerful technique, you take long, slow, deep breaths (also known as abdominal or belly breathing). ...</li>
+<li>Body scan. This technique blends breath focus with progressive muscle relaxation. ...</li>
+<li>Guided imagery. ...</li>
+<li>Mindfulness meditation. ...</li>
+<li>Yoga, tai chi, and qigong. ...</li>
+<li>Repetitive prayer...</li>
+
+
+	 </random>
+	</template>
+  </category>
+</aiml>

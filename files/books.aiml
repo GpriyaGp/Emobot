@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<category>
+	<pattern>TOP BOOKS</pattern>
+	<template><random>
+     <li>  Bridget Jones's Diary by Helen Fielding </li>
+     <li> Harry Potter and the Sorcerer's Stone by J.K. Rowling </li>
+     <li> Let's Pretend This Never Happened by Jenny Lawson </li>
+     <li> A Tree Grows in Brooklyn by Betty Smith </li>
+     <li> Big Magic by Elizabeth Gilbert </li>
+     <li> The Rosie Project by Graeme Simsion </li>
+     <li> Aimless Love by Billy Collins </li>
+     <li> Hector and the Search for Happiness by Francois Lelord </li>
+     <li> Fried Green Tomatoes at the Whistle Stop Cafe by Fannie Flagg </li>
+     <li> Smarter, Faster, Better: The Secrets of Being Productive in Life and Business by Charles Duhigg</li>
+     <li> The Power of Passion and Perseverance by Angela Duckworth</li>
+     <li>Choose Yourself by James Altucher</li>
+     <li>High-Hanging Fruit: Build Something Great by Going Where No One Else Will by Mark Rampolla</li>
+     <li>Now, Discover Your Strengths by Marcus Buckingham and Donald Clifton</li>
+		
+	 </random>
+	</template>
+  </category>
+</aiml>
+
+

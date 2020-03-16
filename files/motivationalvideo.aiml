@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+	<category>
+	<pattern>MOTIVATIONAL VIDEO</pattern>
+	<template>
+		<random>
+		<li>https://www.youtube.com/watch?v=b60xOKjrmPE</li>
+		<li>https://www.youtube.com/watch?v=_gJyJ8NvZgg</li>
+		<li>https://www.youtube.com/watch?v=67K9XmBInYk</li>
+		<li>https://www.youtube.com/watch?v=jwjGw3BCryI</li>
+		<li>https://www.youtube.com/watch?v=bqVxBT-Z4yE</li>
+		<li>https://www.youtube.com/watch?v=z7tymg3ptqc</li>
+		<li>https://www.youtube.com/watch?v=yOvxSTLZt6g</li>
+		<li>https://www.youtube.com/watch?v=t8FnbQ_-vck</li>
+		<li>https://www.youtube.com/watch?v=v0zJo_P8mW4</li>
+		<li>https://www.youtube.com/watch?v=Thj5jI2E_Yg</li>
+		<li>https://www.youtube.com/watch?v=SqWDbrCHhq8</li>
+		<li>https://www.youtube.com/watch?v=kGkyeJJBy-k</li>
+		<li>https://www.youtube.com/watch?v=YBm68cg7fZU</li>
+		<li>https://www.youtube.com/watch?v=iE_uj-U68hM</li>
+		<li>https://www.youtube.com/watch?v=P0tRYn61LtY</li>
+		<li>https://www.youtube.com/watch?v=kg-LCgMKkyI</li>
+		<li>https://www.youtube.com/watch?v=qjGP30ilH4s</li>
+		<li>https://www.youtube.com/watch?v=e1Ly_4eZ88A</li>
+		<li>https://www.youtube.com/watch?v=L25VCKhvGB0</li>
+		<li>https://www.youtube.com/watch?v=1t_8Xl7DRuc</li>
+		<li>https://www.youtube.com/watch?v=wX6o4AVjxNM</li>
+		<li>https://www.youtube.com/watch?v=0yGN_svA6Wo</li>
+		<li>https://www.youtube.com/watch?v=SsgIH_pvnB8</li>
+		<li>https://www.youtube.com/watch?v=cSdK-K6_dQQ</li>
+		<li>https://www.youtube.com/watch?v=7Arhd2q14kk</li>
+		<li>https://www.youtube.com/watch?v=lmBJ0QDGXG8</li>
+		<li>https://www.youtube.com/watch?v=R5_uw2W1u48</li>
+
+       </random>
+	</template>
+ </category>
+</aiml>

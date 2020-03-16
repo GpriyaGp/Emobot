@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+	<category>
+	<pattern>SUCCESS QUOTES</pattern>
+	<template><random>
+		<li>"Success is not final; failure is not fatal: It is the courage to continue that counts." ...
+</li>
+		<li>"It is better to fail in originality than to succeed in imitation." ...
+</li>
+		<li>"The road to success and the road to failure are almost exactly the same." ...
+</li>
+		<li>"Success usually comes to those who are too busy to be looking for it."
+</li>
+		<li> "Opportunities don't happen. You create them."
+
+-- Chris Grosser</li>
+		<li>"Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better."
+
+-- Jim Rohn</li>
+		<li> "Try not to become a man of success. Rather become a man of value."
+
+-- Albert Einstein</li>
+		<li>"Stop chasing the money and start chasing the passion."</li>
+		<li>"Success is walking from failure to failure with no loss of enthusiasm."-- Winston Churchill</li>
+		<li>"I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite."
+
+-- G. K. Chesterton</li>
+		<li>"If you are not willing to risk the usual, you will have to settle for the ordinary."
+
+- Jim Rohn</li>
+		<li>"All progress takes place outside the comfort zone."
+
+-- Michael John Bobak</li>
+		<li>"Don't let the fear of losing be greater than the excitement of winning."
+
+-- Robert Kiyosaki</li>
+		<li> "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
+
+-- Colin Powell</li>
+		</random>
+	</template>
+</category>
+</aiml>

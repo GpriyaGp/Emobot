@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<category>
+	<pattern>LOVE QUOTES</pattern>
+	<template><random>
+		<li>You always gain by giving love.
+
+</li>
+		<li>All that you are is all that Iâll ever need.
+
+</li>
+		<li>Love recognizes no barriers.
+
+</li>
+		<li>There is no charm equal to tenderness of heart.
+
+</li>
+		<li>The heart has its reasons of which reason knows nothing.
+
+</li>
+		<li>Love is friendship that has caught fire.
+
+</li>
+		<li>Love is friendship that has caught fire.
+
+</li>
+		<li>You can't blame gravity for falling in love.
+
+</li>
+		<li>If you find someone you love in your life, then hang on to that love.
+
+</li>
+		<li>A simple "I love you" means more than money.
+
+</li>
+		<li>You don't marry someone you can live with â you marry someone you cannot live without.
+
+</li>
+		<li>If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
+
+</li>
+		<li>'Tis better to have loved and lost, than never to have loved at all.
+
+</li>
+		<li>Love is something sent from heaven to worry the hell out of you.
+
+</li>
+		<li>To be brave is to love someone unconditionally, without expecting anything in return.
+
+</li>
+		<li>Love is an endless act of forgiveness.
+
+</li>
+		<li>All you need is love. But a little chocolate now and then doesn't hurt.
+
+</li>
+		<li>First and foremost, self-love, and then give love away.
+
+</li>
+		
+	 </random>
+	</template>
+  </category>
+</aiml>

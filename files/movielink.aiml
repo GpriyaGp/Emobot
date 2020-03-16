@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category>
+<pattern>MOVIE LINK</pattern>
+<template><random>
+	<li>https://www.youtube.com/movies
+	</li>
+	<li>http://archive.org/details/feature_films
+	</li>
+	<li>https://www.hotstar.com/movies
+	</li>
+	<li>http://retrovision.tv/
+	</li>
+	<li>https://help.netflix.com/en/node/16282
+	</li>
+	<li>https://www.sonycrackle.com/
+	</li>
+	<li>http://pluto.tv/watch/
+	</li>
+	<li>http://www.openculture.com/freemoviesonline
+	</li>
+	<li>http://moviesfoundonline.com/
+	</li>
+	<li>http://www.popcornflix.com/
+	</li>
+	<li>https://www.kanopy.com/
+	</li>
+	<li>https://view.yahoo.com/browse/movies
+	</li>
+	<li>	https://www.youtube.com/user/KoreanFilm/videos
+	</li>
+</random></template>
+</category>
+</aiml>

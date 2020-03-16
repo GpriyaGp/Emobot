@@ -1,0 +1,63 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+   
+<category>
+<pattern>GOOD QUOTES</pattern>
+
+<template><random>
+<li>You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life</li>
+<li>Only a life lived for others is a life worthwhile
+</li>
+<li>Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful
+</li>
+<li>I have only two kinds of days: happy and hysterically happy
+</li>
+<li>People should find happiness in the little things
+</li>
+<li>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes
+</li>
+<li>As people spin faster and faster in the pursuit of merely personal happiness, they become exhausted in the futile effort of chasing themselves</li>
+<li>Whoever is happy will make others happy
+</li>
+<li>Happiness depends upon ourselves
+</li>
+<li>Learn to value yourself, which means: fight for your happiness
+</li>
+<li>All happiness or unhappiness solely depends upon the quality of the object to which we are attached by love
+</li>
+<li>A great obstacle to happiness is to expect too much happiness
+</li>
+<li>To be without some of the things you want is an indispensable part of happiness
+</li>
+<li>It is not how much we have, but how much we enjoy, that makes happiness
+</li>
+<li>Happiness is a way station between too little and too much
+</li>
+<li>The only way to find true happiness is to risk being completely cut open.
+</li>
+<li>Happiness is not something ready made. It comes from your own actions
+</li>
+<li>We canât control the world. We can only (barely) control our own reactions to it. Happiness is largely a choice, not a right or entitlement.</li>
+<li>I think the key to life is just being a happy person, and happiness will bring you success
+</li>
+<li>Happiness is being content with what you have, living in freedom and liberty, having a good family life and good friends
+</li>
+<li>Happiness is the interval between periods of unhappiness
+</li>
+</random></template>
+</category>
+<category>
+<pattern>_</pattern>
+<that>010011010101100111011</that>
+<template>Well computers think it's a funny joke.</template>
+</category>
+</aiml>
+
+
+
+
+
+
+

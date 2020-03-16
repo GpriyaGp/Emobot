@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+	<category>
+	<pattern>LIFE QUOTES</pattern>
+	<template><random>
+		<li>Knowing is not enough; we must apply. Willing is not enough; we must do.</li>
+		<li>Knowing is not enough; we must apply. Willing is not enough; we must do.</li>
+		<li>Change your thoughts and you change your world. </li>
+		<li>Those who realize their folly are not true fools. ...</li>
+		<li>Life is too important to be taken seriously. ..</li>
+		<li>Life can only be understood backwards; but it must be lived forwards. ...
+</li>
+		<li>It always seems impossible until it's done. ...
+</li>
+		<li>It's better to be a lion for a day than a sheep all your life.
+</li>
+		<li>"You will face many defeats in life, but never let yourself be defeated." - ...
+</li>
+		<li>"In the end, it's not the years in your life that count.
+</li>
+		<li>Love For All, Hatred For None. â ...
+</li>
+		<li>Change the world by being yourself. â ...
+</li>
+		<li>Every moment is a fresh beginning. â ...
+</li>
+		<li>Never regret anything that made you smile. â ...
+</li>
+		<li>Die with memories, not dreams. â ...
+</li>
+		<li>Aspire to inspire before we expire. â
+</li>
+		<li>Accomplish. Nothing else can satisfy your soul..
+</li>
+		<li>Life is 10% what happens to you and 90% how you react to it. ...
+</li>
+  </random>
+	</template>
+</category>
+</aiml>

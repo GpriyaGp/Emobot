@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+   
+<category>
+<pattern>MOTIVATIONAL QUOTES</pattern>
+
+<template><random>
+<li>  Quality is not an act, it is a habit. ...
+</li>
+<li>   With the new day comes new strength and new thoughts. ...
+</li>
+
+ <li>  Life is 10% what happens to you and 90% how you react to it. ...
+</li>
+<li> Knowing is not enough; we must apply. ...
+</li>
+<li>Optimism is the faith that leads to achievement. ...
+</li>
+
+<li>The secret of getting ahead is getting started.</li>
+
+<li>Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious
+</li>
+
+<li>Only I can change my life. No one can do it for me
+</li>
+
+<li>Good, better, best. Never let it rest. 'Til your good is better and your better is best
+</li>
+
+<li>Life is 10% what happens to you and 90% how you react to it.
+</li>
+
+<li>With the new day comes new strength and new thoughts.
+</li>
+
+<li>The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence</li>
+
+<li>The secret of getting ahead is getting started.
+</li>
+
+<li>It does not matter how slowly you go as long as you do not stop.
+</li>
+
+
+<li>Your limitationâitâs only your imagination
+</li>
+
+<li>Push yourself, because no one else is going to do it for you.
+</li>
+
+<li>Sometimes later becomes never. Do it now
+</li>
+
+<li>Great things never come from comfort zones
+</li>
+<li>Dream it. Wish it. Do it
+</li>
+<li>Success doesnât just find you. You have to go out and get it
+</li>
+<li>The harder you work for something, the greater youâll feel when you achieve it
+</li>
+<li>Dream bigger. Do bigger
+</li>
+<li>Success Wonât just find you. You have to go out and get it
+</li>
+<li>Donât stop when youâre tired. Stop when youâre done
+</li>
+<li>Wake up with determination. Go to bed with satisfaction
+</li>
+<li>Do something today that your future self will thank you for
+</li>
+<li>The secret of happiness is freedom, the secret of freedom is courage
+</li>
+<li>Little things make big days
+</li>
+<li>Itâs going to be hard, but hard does not mean impossible
+</li>
+<li>Donât wait for opportunity. Create it
+</li>
+<li>Sometimes weâre tested not to show our weaknesses, but to discover our strengths
+</li>
+<li>The key to success is to focus on goals, not obstacles
+</li>
+<li>Dream it. Believe it. Build it
+</li>
+<li>You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life</li>
+<li>Only a life lived for others is a life worthwhile
+</li>
+<li>Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful
+</li>
+<li>I have only two kinds of days: happy and hysterically happy
+</li>
+<li>People should find happiness in the little things
+</li>
+<li>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes
+</li>
+<li>As people spin faster and faster in the pursuit of merely personal happiness, they become exhausted in the futile effort of chasing themselves</li>
+<li>Whoever is happy will make others happy
+</li>
+<li>Happiness depends upon ourselves
+</li>
+<li>Learn to value yourself, which means: fight for your happiness
+</li>
+
+</random></template>
+</category>
+<category>
+<pattern>_</pattern>
+<that>010011010101100111011</that>
+<template>Well computers think it's a funny joke.</template>
+</category>
+</aiml>
+
+
+
+
+
+
+

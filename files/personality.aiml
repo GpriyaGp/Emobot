@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category>
+<pattern> PERSONALITY </pattern>
+<template><random>
+	<li>https://www.dailymotion.com/
+	</li>
+	<li>https://techglamour.com/most-popular-viral-and-social-news-sites/
+	</li>
+	<li>http://www.vimeo.com/
+	</li>
+	<li>https://9gag.com/tv
+	</li>
+	<li>http://www.metacafe.com/videos_about/comedy/
+	</li>
+	<li>http://failblog.cheezburger.com/tag/Video
+	</li>
+	<li>http://www.break.com/
+	</li>
+	<li>https://www.inkitt.com/
+	</li>
+	<li>http://www.wimp.com/
+	</li>
+	<li>http://www.funnyjunk.com/movies/
+	</li>
+	<li>http://www.collegehumor.com/</li>
+	<li>http://www.comedycentral.com/funny-videos</li>
+	<li>https://heavy.com/tag/funny-videos/</li>
+	<li>http://www.dumpert.nl/</li>
+	<li>http://www.ebaumsworld.com/</li>
+</random></template>
+</category>
+</aiml>

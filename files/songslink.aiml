@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category>
+<pattern> * SONGS </pattern>
+<template><random>
+	<li>http://www.youtube.com/
+	</li>
+	<li>http://www.beemp3s.org/
+	</li>
+	<li>http://www.epitonic.com/
+	</li>
+	<li>http://www.emp3world.so/
+	</li>
+	<li>www.friendstamilmp3.com
+	</li>
+	<li>https://tamilmusicz.com
+	</li>
+	<li>www.tamilmp3world.com
+	</li>
+	<li>www.saregama.com
+	</li>
+	<li>www.tamilmp3online.com
+	</li>
+	<li>http://www.popcornflix.com/
+	</li>
+	<li>https://www.kanopy.com/
+	</li>
+	<li>https://view.yahoo.com/browse/songs
+	</li>
+	<li>	https://www.youtube.com/user/KoreanFilm/videos
+	</li>
+</random></template>
+</category>
+</aiml>

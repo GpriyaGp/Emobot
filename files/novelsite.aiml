@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category>
+<pattern> novelsite</pattern>
+<template><random>
+    <li>http://www.royalroad.com/
+	</li>
+	<li>http://www.webfictionguide.com/
+	</li>
+	<li>http://www.wattpad.com/
+	</li>
+	<li>http://www.gravitytales.com/
+	</li>
+	<li>www.wuxiaworld.com
+	</li>
+	<li>https://webnovel.com
+	</li>
+	<li>http://webfictionguide.com/
+	</li>
+	<li>https://www.inkitt.com/
+	</li>
+	<li>https://tapas.io/
+	</li>
+	<li>https://www.scribblehub.com/
+	</li>
+	
+</random></template>
+</category>
+</aiml>
